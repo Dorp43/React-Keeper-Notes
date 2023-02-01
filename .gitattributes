@@ -1,2 +1,2 @@
-src/components/* linguist-documentation=false
-src/components/* linguist-vendored=false
+src/** linguist-documentation=false
+src/** linguist-vendored=false
